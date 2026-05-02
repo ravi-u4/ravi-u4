@@ -24,7 +24,10 @@ Hi, I’m **Ravi Upadhyay** — an IT graduate and MERN stack developer passiona
 
 <p align="center">
   <a href="mailto:raviupadhyay731@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=FF4D4D"/>
+    <img src="https://img.shields.io/badge/📧_Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=FF4D4D"/>
+  </a>
+  <a href="https://github.com/ravi-u4">
+    <img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -34,24 +37,60 @@ Hi, I’m **Ravi Upadhyay** — an IT graduate and MERN stack developer passiona
 
 ### 🚀 Core
 
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-0f172a?style=for-the-badge\&logo=redux\&logoColor=A855F7)
-![NodeJS](https://img.shields.io/badge/NodeJS-0f172a?style=for-the-badge\&logo=node.js\&logoColor=22C55E)
-![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge\&logo=mongodb\&logoColor=22C55E)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge\&logo=mysql\&logoColor=38BDF8)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=A855F7"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/NodeJS-0f172a?style=for-the-badge&logo=node.js&logoColor=22C55E"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=22C55E"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
+  </a>
+</p>
+
+---
 
 ### ⚡ Tools & Platforms
 
-![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge\&logo=amazon-aws\&logoColor=F59E0B)
-![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge\&logo=firebase\&logoColor=FACC15)
-![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge\&logo=docker\&logoColor=38BDF8)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge\&logo=kubernetes\&logoColor=6366F1)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge\&logo=git\&logoColor=F97316)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="center">
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazon-aws&logoColor=F59E0B"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FACC15"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=6366F1"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F97316"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
