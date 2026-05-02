@@ -89,6 +89,10 @@ Hi, I’m **Ravi Upadhyay** — an IT graduate and MERN stack developer.
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravi-u4/ravi-u4/output/github-contribution-grid-snake.svg"/>
+</p>
+
 # ✨ Dev Quote
 
 <p align="center">
