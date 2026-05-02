@@ -1,7 +1,7 @@
-<!-- 🔥 HERO -->
+<!-- 🔥 GLOWING NAME BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Ravi+Upadhyay;MERN+Stack+Developer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Ravi+Upadhyay;MERN+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -20,31 +20,68 @@ Hi, I'm **Ravi Upadhyay**, a MERN Stack Developer focused on building **real-wor
 
 ---
 
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=22C55E"/>
+</p>
+
+### 🔄 State Management
+
+<p>
+<img src="https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=7F5AF0"/>
+</p>
+
+### ⚡ DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazon-aws&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=6366F1"/>
+</p>
+
+---
+
 ## 🚀 Featured Project — Case Study
 
 ### 🔥 GrabMyPasses
 
-A full-stack platform designed to simplify **event discovery and pass booking**, focusing on performance, scalability, and seamless user experience.
+A full-stack platform designed to simplify **event discovery and pass booking**, focusing on performance and seamless user experience.
 
 ---
 
 ### 🎯 Problem
 
-Users often face:
-
-* ❌ Difficulty finding relevant events
-* ❌ Complicated booking systems
-* ❌ Poor user experience on existing platforms
+* Difficulty finding relevant events
+* Complex booking processes
+* Poor UX in existing solutions
 
 ---
 
 ### 💡 Solution
 
-Developed **GrabMyPasses** to:
-
-* Provide a centralized event discovery system
-* Deliver a smooth and fast booking experience
-* Ensure a clean, modern UI
+* Centralized event discovery platform
+* Smooth and fast booking flow
+* Clean, responsive UI
 
 ---
 
@@ -60,18 +97,9 @@ Developed **GrabMyPasses** to:
 ### 🚀 Key Features
 
 * 🎟️ Event browsing & booking
-* 🔐 Secure authentication system
-* ⚡ Optimized API handling
-* 📱 Fully responsive design
-
----
-
-### 📈 Engineering Focus
-
-* ⚡ Performance optimization
-* 🧠 Scalable folder structure
-* 🔄 Efficient state management
-* 🎨 Clean UI/UX
+* 🔐 Secure authentication
+* ⚡ Optimized API performance
+* 📱 Fully responsive UI
 
 ---
 
@@ -91,24 +119,6 @@ Developed **GrabMyPasses** to:
   <a href="https://github.com/ravi-u4/GrabMyPasses">
     <img src="https://img.shields.io/badge/View_Code-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🧩 Upcoming Projects
-
-🚧 Currently building:
-
-* Full-stack SaaS platform
-* Real-time dashboard
-* API-based system
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,redux,docker,aws,kubernetes" />
 </p>
 
 ---
