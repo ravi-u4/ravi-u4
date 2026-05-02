@@ -126,11 +126,12 @@ A full-stack platform designed to simplify **event discovery and pass booking**,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-u4&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-u4&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F5AF0&icon_color=38BDF8"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ravi-u4&theme=tokyonight&hide_border=true&background=0f172a&ring=7F5AF0&fire=38BDF8&currStreakLabel=7F5AF0&sideNums=38BDF8&currStreakNum=7F5AF0"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ravi-u4&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-u4&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
