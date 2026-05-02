@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a B.Sc. IT graduate with a strong foundation in web development and hands-on experience with the MERN stack (MongoDB, Express.js, React, and Node.js). I am passionate about building scalable, user-focused applications and continuously improving my technical skills. I enjoy working on modern web technologies and am always eager to learn and contribute to meaningful projects.<br>
+Hi, I’m Ravi Upadhyay — a IT graduate and MERN stack developer passionate about building fast, scalable, and user-friendly web applications. I enjoy turning ideas into real-world products and constantly exploring new technologies to improve my craft. Always curious, always learning, and excited to collaborate on impactful projects.
+<br>
 
 
 ## 🌐 Socials:
