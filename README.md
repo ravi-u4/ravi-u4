@@ -16,12 +16,12 @@
 
 I’m a MERN Stack Developer who enjoys building **scalable, production-ready web applications** with a strong focus on performance and maintainability.
 
-I care about writing **clean, structured code**, designing efficient APIs, and creating user experiences that feel fast and intuitive.
+I focus on writing **clean, structured code**, designing efficient APIs, and delivering fast, intuitive user experiences.
 
-* ⚡ Focused on performance, scalability, and clean architecture  
-* 🧠 Continuously learning and improving through real-world projects  
-* 🛠 Experienced in building full-stack applications end-to-end  
-* 🤝 Actively seeking internships and developer opportunities  
+*  Performance-driven development with clean architecture  
+*  Continuously learning through real-world projects  
+*  Building full-stack applications end-to-end  
+*  Open to internships and developer opportunities  
 
 ---
 
@@ -39,7 +39,7 @@ I care about writing **clean, structured code**, designing efficient APIs, and c
 
 ### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🔄 State Management
@@ -54,18 +54,18 @@ I care about writing **clean, structured code**, designing efficient APIs, and c
 
 ---
 
-## 🚀 Featured Project
+## 💼 Featured Project
 
-### 🔥 GrabMyPasses
+###  GrabMyPasses
 
-A full-stack event booking platform designed for **speed, scalability, and seamless user experience**.  
-It simplifies event discovery with an intuitive interface and smooth booking flow.
+A full-stack event booking platform built for **speed, scalability, and seamless user experience**.  
+It simplifies event discovery with a clean interface and smooth booking flow.
 
-* ⚡ Optimized backend APIs for faster performance  
-* 🔐 Secure authentication and structured data flow  
-* 📱 Fully responsive UI across all devices  
+* ⚡ Optimized APIs for fast performance  
+* 🔐 Secure authentication and structured backend  
+* 📱 Fully responsive UI across devices  
 
-**Tech:** React • Redux • Node.js • Express • MongoDB  
+**Tech:** React • Redux • Node.js • Express • MongoDB • MySQL  
 
 ---
 
@@ -73,6 +73,7 @@ It simplifies event discovery with an intuitive interface and smooth booking flo
   <a href="https://grab-my-passes.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_Live_App-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ravi-u4/GrabMyPasses">
     <img src="https://img.shields.io/badge/💻_Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -80,15 +81,24 @@ It simplifies event discovery with an intuitive interface and smooth booking flo
 
 ---
 
-## 📬 Contact
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:raviupadhyay731@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ravi-upadhyay-/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ravi-u4">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
+</p>
+
+<p align="center">
+  Let’s connect and build something meaningful 🚀
 </p>
 
 ---
